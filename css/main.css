@@ -121,7 +121,12 @@ body{
     border:1px solid white;
 
 }
+.ad{
+    width: 1000px;
+    height: 310px;
+    overflow:hidden;
 
+}
 
 
 
